@@ -45,20 +45,27 @@ support/puzzles.py
 ```text
 logic-puzzle-solver/
 │
-├── main.py
-├── README.md
-├── requirements.txt
+├── main.py                  # Entry point of the application
+├── README.md                # Project documentation
+├── requirements.txt         # Project dependencies
 │
 ├── data/
-│   └── sudoku_puzzles.json
+│   └── sudoku_puzzles.json  # Sample Sudoku puzzles dataset
 │
-└── support/
-    ├── app.py
-    ├── sudoku_solver.py
-    ├── puzzles.py
-    ├── utils.py
-    ├── report_draft.md
-    └── __init__.py
+├── support/
+│   ├── app.py               # Application interface / runner logic
+│   ├── sudoku_solver.py     # Core Sudoku solving algorithms
+│   ├── puzzles.py           # Puzzle definitions and handling
+│   ├── utils.py             # Utility/helper functions
+│   ├── report_draft.md      # Draft version of the project report
+│   └── __init__.py          # Package initializer
+│
+└── others/
+    ├── final_presentation.pptx     # Final project presentation slides
+    ├── final_report.pdf            # Final project report
+    ├── update_presentation.pptx    # Updated presentation slides
+    ├── update_report.pdf           # Updated project report
+    └── demo_video.mp4              # One-minute demo video of the project
 ```
 
 ## How to Run Console Version
