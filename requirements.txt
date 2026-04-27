@@ -1,0 +1,3 @@
+# Core console solver uses only built-in Python libraries.
+# Streamlit is only needed for the optional web UI.
+streamlit>=1.30.0
