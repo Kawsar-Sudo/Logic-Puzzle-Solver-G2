@@ -63,7 +63,6 @@ logic-puzzle-solver/
 └── others/
     ├── final_presentation.pptx     # Final project presentation slides
     ├── final_report.pdf            # Final project report
-    ├── update_presentation.pptx    # Updated presentation slides
     ├── update_report.pdf           # Updated project report
     └── demo_video.mp4              # One-minute demo video of the project
 ```
